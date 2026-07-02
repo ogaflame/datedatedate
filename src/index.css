@@ -318,8 +318,3 @@ h1 { display: flex; align-items: center; gap: 10px; margin-bottom: 5px; font-siz
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
-
-.writing-vertical {
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-}
