@@ -303,7 +303,7 @@ export default function App() {
         <header className="app-header">
           <div>
             <p className="eyebrow">Chronos medication utility</p>
-            <h1><CalendarDays size={29} aria-hidden="true" />いつ飲み始めるといつまでになるか知りたい</h1>
+            <h1><CalendarDays size={29} aria-hidden="true" />服用期間とか日付とか確認したい</h1>
             <p className="header-description">往診時によく困る、臨時処方をいつまでつなげばいいのかを確認できます。</p>
           </div>
 
